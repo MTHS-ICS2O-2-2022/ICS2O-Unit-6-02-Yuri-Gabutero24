@@ -3,7 +3,7 @@
 
 [![Mr Coxall's Super Linter](https://github.com/MTHS-ICS2O-2-2022/ICS2O-Unit-6-02-Yuri-Gabutero24/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-ICS2O-2-2022/ICS2O-Unit-6-02-Yuri-Gabutero24/actions)
 
-[![Deploy Pages](https://github.com/MTHS-ICS2O-2-2022ICS2O-Unit-6-02-Yuri-Gabutero24/workflows/Deploy%20Pages/badge.svg)](https://github.com/MTHS-ICS2O-2-2022/ICS2O-Unit-6-02-Yuri-Gabutero24/actions)
+[![Deploy Pages](https://github.com/MTHS-ICS2O-2-2022/ICS2O-Unit-6-02-Yuri-Gabutero24/workflows/Deploy%20Pages/badge.svg)](https://github.com/MTHS-ICS2O-2-2022/ICS2O-Unit-6-02-Yuri-Gabutero24/actions)
 
 This site can be found at: [https://MTHS-ICS2O-2-2022.github.io/ICS2O-Unit-6-02-Yuri-Gabutero24](https://MTHS-ICS2O-2-2022.github.io/ICS2O-Unit-6-02-Yuri-Gabutero24)
 
